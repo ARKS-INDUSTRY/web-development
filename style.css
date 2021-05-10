@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    background-image: url(sky.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    color: white;
+    font-size: 34px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    float: right;
+}
+
+.navigation {
+    margin-right: 20px;
+    margin-top: 20px;
+}
